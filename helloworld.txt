@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello
 world
 !!!
+=======
+hello
+>>>>>>> parent of b17ebd4... world
